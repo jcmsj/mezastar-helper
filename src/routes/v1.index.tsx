@@ -7,7 +7,6 @@ import { useIsMobile } from '@/hooks/use-mobile'
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { Drawer, DrawerContent, DrawerHeader, DrawerTitle } from '@/components/ui/drawer'
 import { AddTrainerForm } from '@/components/AddTrainerForm'
-import { DeleteTrainerDialog } from '@/components/DeleteTrainerDialog'
 import { Plus } from 'lucide-react'
 
 export const Route = createFileRoute('/v1/')({
