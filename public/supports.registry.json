@@ -1,0 +1,17 @@
+{
+    "8da81090f283b09f0ad1dee07cb1b2a9504f4b454d4f4e3032dd": {
+        "pokemon": "sirfetch'd",
+        "move": "meteor assault",
+        "type": "fighting"
+    },
+    "16d7ff1c813cf704d35f91df0be709c5504f4b454d4f4e3032dd": {
+        "pokemon":"mimikyu",
+        "move": "shadow claw",
+        "type": "ghost"
+    },
+    "3c447c874ac1d32309bea2bd7a934dd1504f4b454d4f4e3032dd": {
+        "pokemon":"lapras",
+        "move": "ice beam",
+        "type":"ice"
+    }
+}
